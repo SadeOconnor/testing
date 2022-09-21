@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head><title>Home</title></head>
+<body>
+<header>
+<a href="Only me.html">
+<img src="Assets/star.png" alt="ONLY SADE" title= "YOUR ONE AND ONLY SADE" width="5%" height="5%">
+</a>
+<h1 style="background-color:MediumSpringGreen;">Glitter Is The Only Option</h1>
+</header>
+<hr>
+<nav>
+<table cellspacing="10" cellpadding="10">
+<tr>
+<td><a href="Only me.html">Home</a></td>
+<td><a href="Contacts.html">Contacts</a></td>
+<td><a href="My Mission and Vision.html">My Mission and Vision</a></td>
+<td><a href="My Personal Development.html">My Personal Development</a></td>
+<td><a href="More About Me.html">More About Me</a></td>
+<td><a href="My Storyboard.html">My Storyboard</a></td>
+<td><a href="My Reference.html">My Reference</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h1>SPACE HOLDER</H1>
+
+<center><img src="Assets/cute.jpg" width="30%" height="30%">
+
+<ul>
+<li> hi </li>
+<li> spaces holder</li>
+<li> space </li>
+</ul>
+</body>
